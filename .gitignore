@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS or Editor directories
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
