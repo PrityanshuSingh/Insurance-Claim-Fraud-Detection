@@ -1,6 +1,6 @@
 # Insurance Claims Fraud Detection
 
-This repository contains a **fraud detection** project that combines **IsolationForest** (inverted logic) and **XGBoost** to classify fraud types, complemented by a **Fraud-Ring Graph** analysis using **NetworkX**. The ultimate goal is to identify suspicious insurance claims more accurately by leveraging both **supervised** and **unsupervised** methods, as well as graph-based link analysis.
+InsureWatch is a **fraud detection** project that combines **IsolationForest** (inverted logic) and **XGBoost** to classify fraud types, complemented by a **Fraud-Ring Graph** analysis using **NetworkX**. The ultimate goal is to identify suspicious insurance claims more accurately by leveraging both **supervised** and **unsupervised** methods, as well as graph-based link analysis.
 
 ---
 
