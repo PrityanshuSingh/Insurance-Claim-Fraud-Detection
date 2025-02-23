@@ -73,8 +73,8 @@ my_streamlit_app/
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/my_streamlit_app.git
-cd my_streamlit_app
+git clone https://github.com/PrityanshuSingh/Insurance-Claim-Fraud-Detection.git
+cd Insurance-Claim-Fraud-Detection
 ```
 
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
